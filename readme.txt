@@ -1,2 +1,4 @@
 Git isi a version control system.
-git is free software distrabuted under ths GPL
+Git is free software distrabuted under ths GPL.
+Git has a mutable index called stage.
+
