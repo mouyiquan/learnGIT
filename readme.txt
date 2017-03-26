@@ -1,3 +1,2 @@
 Git isi a version control system.
-git is free software.
-.
+git is free software distrabuted under ths GPL
