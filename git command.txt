@@ -30,3 +30,11 @@ git reset HEAD file;//可以把暂存区的修改撤销掉（unstage），重新
 //文件删除
 git rm filename;在版本库中删除文件
 git checkout filename;找回文件
+
+//远程库
+git remote add origin git@server-name:path/repo-name.git；
+git push -u origin master第一次推送master分支的所有内容；
+git push origin master推送最新修改；
+
+//克隆
+ git clone git@github.com:CTBUmyq/learn-git.git
